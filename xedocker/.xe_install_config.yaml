@@ -1,0 +1,16 @@
+site:
+    url: 'http://hello.com'
+    timezone: Asia/Seoul
+    locale: ko
+admin:
+    email: 'helloworld@hello.com'
+    password: 'password'
+    display_name: admin
+database:
+    driver: mysql
+    host: hello.com
+    port: 3306
+    dbname: 'aaaa'
+    username: ahlala
+    password: 'afafaf'
+    prefix: xe
